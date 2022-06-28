@@ -4,5 +4,5 @@ using namespace std;
 int main() {
      
     int diff = 6-2;
-    cout << "this is diff : " << diff << endl;
+    cout << "this is a a diff : " << diff << endl;
 }
